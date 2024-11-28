@@ -1,9 +1,7 @@
-<<<<<<< HEAD
+
 github'a geçmek için sabırsızlanıyorum.
 Burası benim anasayfam. Benim hakkımda bilgilere erişebilirsiniz.
 Yakında yaptığım çalışmaları buraya yükleyeceğim.
-
-=======
 bugün github'a geçebilecekmiyiz?
 Burası benim anasayfam. Benim hakkımda bilgilere erişebilirsinizi
 Yakında yaptığım çalışmaları buraya yükleyeceğim.
